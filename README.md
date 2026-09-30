@@ -1,4 +1,5 @@
 README
+
 Student Attendance Management System
 A beginner-friendly Python project for recording, calculating, and reporting student attendance.
 1. Project Overview
